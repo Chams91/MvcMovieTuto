@@ -1,6 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
+
 namespace MvcMovie.Controllers
 {
     public class HelloWorldController : Controller
@@ -16,9 +17,9 @@ namespace MvcMovie.Controllers
         // 
         // GET: /HelloWorld/Welcome/ 
 
-        public string Welcome()
+        public string Welcome(string name, int numTimes = 1)
         {
-            return "This is the Welcome action method...";
+            return "Hello " + name + ", NumTimes is: " + numTimes;
         }
     }
 }
