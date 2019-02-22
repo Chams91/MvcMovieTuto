@@ -38,3 +38,7 @@ c:\users\lenovo\documents\visual studio 2015\Projects\MvcMovie\MvcMovie\bin\Newt
 c:\users\lenovo\documents\visual studio 2015\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csprojResolveAssemblyReference.cache
 c:\users\lenovo\documents\visual studio 2015\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.dll
 c:\users\lenovo\documents\visual studio 2015\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.pdb
+C:\Users\lenovo\documents\visual studio 2015\Projects\MvcMovie\MvcMovie\bin\EntityFramework.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\MvcMovie\MvcMovie\bin\EntityFramework.SqlServer.dll
+C:\Users\lenovo\documents\visual studio 2015\Projects\MvcMovie\MvcMovie\bin\EntityFramework.xml
+C:\Users\lenovo\documents\visual studio 2015\Projects\MvcMovie\MvcMovie\bin\EntityFramework.SqlServer.xml
